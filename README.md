@@ -2,10 +2,10 @@
 
 ##  Informations ##
 
-**Rendering date :** Friday 4th February
-**Author :** Hugo Lextrait
-**School :** Efrei Paris
-**Student Number:** 20170687
+**Rendering date :** Friday 4th February.  
+**Author :** Hugo Lextrait.  
+**School :** Efrei Paris.  
+**Student Number:** 20170687.  
 
 ## Ressources ##
 

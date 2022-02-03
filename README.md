@@ -18,7 +18,7 @@ This TP is divided in 4 differents parts answered below
 #### Question 1:  
 
 This code reproduce a the functionnement of a Tavern who sold items with a specific quality and quantity day after day.
-We have the information on names, expiration dates and qualities of all items that the Tavern has in stock.
+We have the information on names, expiration dates and qualities of all items that the Tavern has in stock under specific defined starting data.
 
 #### Question 2:
 #### Question 3:

@@ -25,7 +25,7 @@ We have the information on names, expiration dates and qualities of all items th
 
 The Guilded Rose is storing the goods defined below : 
 
-	Name  
+Name   |
 ------------- |
 +5 Dexterity Vest  |
 Aged Brie  |

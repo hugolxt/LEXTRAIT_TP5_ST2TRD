@@ -65,13 +65,13 @@ Unit tests guarantee that the application (the code) fulfills the conditions and
 
 ### Part 3 : Refactoring the code ###
 
-Only now can you modify the GuildedRose.cs file. Before you rush in, ask yourself how you want to implement this in a clever way. I want different classes, single purpose function, objects. Tests should be green at the end, and you should not have extensively modified them. You should however update them if you changed the architecture of your code to reflect this. 
+Only now can you modify the GuildedRose.cs file. Before you rush in, ask yourself how you want to implement this in a clever way. I want different classes, single purpose function, objects. Tests should be green at the end, and you should not have extensively modified them. You should however update them if you changed the architecture of your code to reflect this.
 
-#### Answer
+=> You can find the answer in the **GildedRose.cs**
 
 ### Part 4 : Up, up, and away  ###
 
 Implement the conjured item property. 
 Then, find at least 3 ways to expand this code to add more functionalities. Explain how you would carry on with your implementation of the code. Thread carefully, this is harder than you think it is. Scalability is key. You don’t need to code these, but you should explain in detail what you would do. 
 
-#### Answer
+(Sorry not done...)

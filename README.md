@@ -14,7 +14,7 @@ This TP is divided in 4 differents parts answered below
 
 ## Projects Answers ##
 
-## Part 1 ##
+## Part 1 : Some questions about the code ##
 #### Question 1: What is this code about?
 
 This code reproduce a the functionnement of a Tavern who sold items with a specific quality and quantity day after day.
@@ -63,13 +63,13 @@ Look online for NUnit (and NFluent if you want) and AAA test pattern. Create a p
 
 Unit tests guarantee that the application (the code) fulfills the conditions and that the principle of the application is respected. In addition, when modifying the code, they allow the coder to quickly test the various conditions that the application must meet. Throughout the modification or impregnation process, tests ensure the reliability and integrity of the application.
 
-### Part 3 ###
+### Part 3 : Refactoring the code ###
 
 Only now can you modify the GuildedRose.cs file. Before you rush in, ask yourself how you want to implement this in a clever way. I want different classes, single purpose function, objects. Tests should be green at the end, and you should not have extensively modified them. You should however update them if you changed the architecture of your code to reflect this. 
 
 #### Answer
 
-### Part 4 ###
+### Part 4 : Up, up, and away  ###
 
 Implement the conjured item property. 
 Then, find at least 3 ways to expand this code to add more functionalities. Explain how you would carry on with your implementation of the code. Thread carefully, this is harder than you think it is. Scalability is key. You don’t need to code these, but you should explain in detail what you would do. 

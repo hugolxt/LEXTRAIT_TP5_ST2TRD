@@ -14,7 +14,7 @@ This TP is divided in 4 differents parts answered below
 
 ## Projects Answers ##
 
-### Part 1 ###
+## Part 1 ##
 #### Question 1: What is this code about?
 
 This code reproduce a the functionnement of a Tavern who sold items with a specific quality and quantity day after day.
@@ -53,7 +53,7 @@ This code is hard to read because there is lot of nested stuctures like nested I
 
 From scratch, it will no be an easy work but thanks to the vast documentation in every langages, the application principle is pretty clear. That's a very good point for a work of application recreation.
 
-### Part 2 : Application's tests ### 
+## Part 2 : Application's tests ## 
 
 Look online for NUnit (and NFluent if you want) and AAA test pattern. Create a project in the solution (ie: GuildedRose.Test). To increase clarity, split your tests into multiple files in a way you see fit / clever.
 

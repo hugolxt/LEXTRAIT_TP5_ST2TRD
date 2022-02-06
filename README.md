@@ -74,4 +74,44 @@ Only now can you modify the GuildedRose.cs file. Before you rush in, ask yoursel
 Implement the conjured item property. 
 Then, find at least 3 ways to expand this code to add more functionalities. Explain how you would carry on with your implementation of the code. Thread carefully, this is harder than you think it is. Scalability is key. You don’t need to code these, but you should explain in detail what you would do. 
 
-(Sorry not done...)
+#### Answer :
+
+We can think about new features to add some new content and roleplay around the Guilded Shop.
+
+My first Idea would have been to create a better User Interface in order to make the shop more userfriendly. A good way to do it would have been to use a Graphical C# application like WPF apps. This way would allow the user to follow each day and the evolution of all the items more clearly using colors and icons. A clear interface allow to simplify the game understanding and evolution.
+
+---
+
+Second idea would have been to allow the user to create and insert his own items in the shop with the possibility to declare the item as a normal, personalized, conjured or legendary item. It would have been really interesting to follow his own items evolution to undestand the game. like below 
+
+->  Would you want to add a new item to the Guilded Shop ? (y/n)
+
+->  What's the item's type ?
+  1. Normal
+  2. Conjured
+  3. Legendary
+  4. Personalized
+
+->  Enter the following informations :
+->  Name : xxx
+->  Starting Quality : xxx
+->  Starting Sellin : xxx
+->  Starting Quality : xxx
+
+
+---
+
+Moreover, a really simple feature that could have completly change the game understanding could have been to add the delta (positiv or negativ) for the quality and Sellin according to last day like below:
+
+---------------         day 7          ----------------
+Name              | SellIn (delta)    | Quality (delta)
+
++5 Dexterity Vest | 3 (-1)            | 13 (-1)
+Aged Brie         | -5 (-1)           | 12 (+2)
+...
+...
+
+
+
+
+

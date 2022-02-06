@@ -53,6 +53,8 @@ This code is hard to read because there is lot of nested stuctures like nested I
 
 From scratch, it will no be an easy work but thanks to the vast documentation in every langages, the application principle is pretty clear. That's a very good point for a work of application recreation.
 
+---
+
 ## Part 2 : Application's tests ## 
 
 Look online for NUnit (and NFluent if you want) and AAA test pattern. Create a project in the solution (ie: GuildedRose.Test). To increase clarity, split your tests into multiple files in a way you see fit / clever.
@@ -63,11 +65,15 @@ Look online for NUnit (and NFluent if you want) and AAA test pattern. Create a p
 
 Unit tests guarantee that the application (the code) fulfills the conditions and that the principle of the application is respected. In addition, when modifying the code, they allow the coder to quickly test the various conditions that the application must meet. Throughout the modification or impregnation process, tests ensure the reliability and integrity of the application.
 
+---
+
 ### Part 3 : Refactoring the code ###
 
 Only now can you modify the GuildedRose.cs file. Before you rush in, ask yourself how you want to implement this in a clever way. I want different classes, single purpose function, objects. Tests should be green at the end, and you should not have extensively modified them. You should however update them if you changed the architecture of your code to reflect this.
 
 => You can find the answer in the **GildedRose.cs**
+
+---
 
 ### Part 4 : Up, up, and away  ###
 

@@ -99,10 +99,10 @@ Second idea would have been to allow the user to create and insert his own items
   4. Personalized
 
 ->  Enter the following informations :
-->  Name : xxx
-->  Starting Quality : xxx
-->  Starting Sellin : xxx
-->  Starting Quality : xxx
+->  Name : xxx  
+->  Starting Quality : xxx  
+->  Starting Sellin : xxx  
+->  Starting Quality : xxx  
 
 
 ---
@@ -112,8 +112,8 @@ Moreover, a really simple feature that could have completly change the game unde
 ---------------         day 7          ----------------
 Name              | SellIn (delta)    | Quality (delta)
 
-+5 Dexterity Vest | 3 (-1)            | 13 (-1)
-Aged Brie         | -5 (-1)           | 12 (+2)
++5 Dexterity Vest | 3 (-1)            | 13 (-1)  
+Aged Brie         | -5 (-1)           | 12 (+2)   
 ...
 ...
 
